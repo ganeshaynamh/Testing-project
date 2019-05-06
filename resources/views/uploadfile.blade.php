@@ -20,7 +20,7 @@ upload file
     <!-- <input type="file" name="file" /> -->
     <input type="file" name="file"/>
     <br /><br />
-    <input type="submit" value=" Save " class="btn btn-primary" />
+    <input type="submit" value=" Save " class="btn" />
 </form>
 </div>
 
